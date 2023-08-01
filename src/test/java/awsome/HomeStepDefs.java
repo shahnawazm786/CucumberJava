@@ -10,7 +10,7 @@ public class HomeStepDefs {
     }
     @And("verify the link of home page")
     public void verifyTheLinkOfHomePage(){
-        
+
     }
 
 }
