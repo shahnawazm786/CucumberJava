@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="protected Classes">
-      <change beforePath="$PROJECT_DIR$/src/main/java/protect/ProtectedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/protect/ProtectedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/outsiseprotect/OutsideClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/outsiseprotect/OutsideClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,7 +400,28 @@
       <option name="project" value="LOCAL" />
       <updated>1694944939056</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="protected Classes">
+      <created>1694945021011</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945021011</updated>
+    </task>
+    <task id="LOCAL-00033" summary="protected Classes">
+      <created>1694945027865</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945027865</updated>
+    </task>
+    <task id="LOCAL-00034" summary="protected Classes">
+      <created>1694945089479</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945089479</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
