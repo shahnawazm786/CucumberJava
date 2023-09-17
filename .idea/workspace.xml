@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="Factory Classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/protect/ProtectExample.java" afterDir="false" />
+    <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="protected Classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/defaultoutside/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/defaults/DefaultExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/outsideprotect/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -289,7 +291,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688147378199</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="protected Classes">
+      <created>1694946166694</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694946166694</updated>
+    </task>
+    <task id="LOCAL-00018" summary="protected Classes">
+      <created>1694946202053</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694946202053</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +321,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Factory Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factory Classes" />
+    <MESSAGE value="protected Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="protected Classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
