@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="Factory Classes">
+    <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="protected Classes">
       <change beforePath="$PROJECT_DIR$/src/main/java/protect/ProtectedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/protect/ProtectedDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -392,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694944929181</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Factory Classes">
+      <created>1694944939056</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1694944939056</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,7 +415,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Factory Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factory Classes" />
+    <MESSAGE value="protected Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="protected Classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
