@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="Factory Classes">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utility/ReadingExcelData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/protect/ProtectedExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/utility/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/awsome/HomeStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/awsome/HomeStepDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/utility/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/utility/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +316,63 @@
       <option name="project" value="LOCAL" />
       <updated>1690456913907</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Factory Classes">
+      <created>1690869124786</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869124786</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Factory Classes">
+      <created>1690869136076</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869136076</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Factory Classes">
+      <created>1690869142272</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869142272</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Factory Classes">
+      <created>1690869149403</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869149403</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Factory Classes">
+      <created>1690869169052</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869169052</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Factory Classes">
+      <created>1690869173886</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869173886</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Factory Classes">
+      <created>1690869179698</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869179698</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Factory Classes">
+      <created>1690869208479</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1690869208479</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
