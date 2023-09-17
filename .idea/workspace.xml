@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="protected Classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/outsiseprotect/OutsideClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/outsiseprotect/OutsideClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/defaults/DefaultMember.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -421,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694945089479</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="protected Classes">
+      <created>1694945173129</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945173129</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
