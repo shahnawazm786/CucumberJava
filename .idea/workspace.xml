@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/question/AscendingOrderExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -400,7 +398,28 @@
       <option name="project" value="LOCAL" />
       <updated>1696172388288</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Inheritance">
+      <created>1696173384585</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1696173384585</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Inheritance">
+      <created>1696173390685</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1696173390685</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Inheritance">
+      <created>1696173397822</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1696173397822</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
