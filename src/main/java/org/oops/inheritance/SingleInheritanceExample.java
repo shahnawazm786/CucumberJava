@@ -8,6 +8,7 @@ public class SingleInheritanceExample {
     }
     //Constructor
     public SingleInheritanceExample(String name,String address){
-
+    this.name=name;
+    this.address=address;
     }
 }
