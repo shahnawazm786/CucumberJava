@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="protected Classes">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/InheritSingleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/SingleInheritanceExample.java" afterDir="false" />
+    <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/SingleInheritanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/SingleInheritanceExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +344,63 @@
       <option name="project" value="LOCAL" />
       <updated>1696170653573</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="protected Classes">
+      <created>1696170822930</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170822930</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Inheritance">
+      <created>1696170840716</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170840716</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Inheritance">
+      <created>1696170845866</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170845866</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Inheritance">
+      <created>1696170854644</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170854644</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Inheritance">
+      <created>1696170859826</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170859826</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Inheritance">
+      <created>1696170948675</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170948675</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Inheritance">
+      <created>1696170956311</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696170956311</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Inheritance">
+      <created>1696171142073</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1696171142073</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +417,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Factory Classes" />
     <MESSAGE value="protected Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="protected Classes" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
