@@ -6,4 +6,8 @@ public class SingleInheritanceExample {
     public String show(){
         return "Name ->"+this.name+"\n Address ->"+this.address;
     }
+    //Constructor
+    public SingleInheritanceExample(String name,String address){
+
+    }
 }
