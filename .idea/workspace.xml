@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d15e911-6400-45c7-ad5d-df1aed8b58e9" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/question/AscendingOrderExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/SingleInheritanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/oops/inheritance/SingleInheritanceExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +55,39 @@
       <recent name="C:\IntelliJWorkspace\CucumberBDD\src\test\java\awsome" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.org.oops.inheritance.Demo">
+    <configuration name="AscendingOrderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.question.AscendingOrderExample" />
+      <module name="CucumberBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.utility.Demo" />
       <module name="CucumberBDD" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.oops.inheritance.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.oops.inheritance.Demo" />
+      <module name="CucumberBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,47 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Add a item into the item cart (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/awsome/add_to_cart.feature" />
-      <option name="GLUE" value="awsome" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="CucumberBDD" />
-      <option name="NAME_FILTER" value="^Add a item into the item cart$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a item into the item cart$&quot;" />
-      <shortenClasspath name="NONE" />
-      <option name="SUGGESTED_NAME" value="Scenario: Add a item into the item cart" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="MakeProject" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Add a item into the item cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/awesome/add_to_cart.feature" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="CucumberBDD" />
-      <option name="NAME_FILTER" value="^Add a item into the item cart$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a item into the item cart$&quot;" />
-      <shortenClasspath name="NONE" />
-      <option name="SUGGESTED_NAME" value="Scenario: Add a item into the item cart" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="MakeProject" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberBDD" />
       <extension name="coverage">
@@ -166,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.oops.inheritance.Demo" />
+        <item itemvalue="Application.AscendingOrderExample" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Feature: add_to_cart" />
-        <item itemvalue="Cucumber Java.Scenario: Add a item into the item cart" />
-        <item itemvalue="Cucumber Java.Scenario: Add a item into the item cart (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696171142073</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Inheritance">
+      <created>1696172383175</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696172383175</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Inheritance">
+      <created>1696172388288</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1696172388288</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
